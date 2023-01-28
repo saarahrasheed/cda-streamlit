@@ -7,7 +7,7 @@ Created on Sat Jan 28 15:44:53 2023
 
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
+
 
 
 st.header('Billionaire Dataset')
